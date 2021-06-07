@@ -690,6 +690,7 @@ a.btn.btn-link.btn-block.text-left {
     border-radius: 11px 11px 0 0;
     color: #fff;
     position: relative;
+    text-decoration: none;
 }
 a.btn.btn-link.btn-block.text-left.collapsed {
     border-radius: 11px;
